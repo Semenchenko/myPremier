@@ -1,3 +1,5 @@
+// окно настройки параметров СОМ-порта
+
 #include "portsettings.h"
 #include "ui_portsettings.h"
 
