@@ -1,3 +1,5 @@
+// пример изменения содержимого файла
+
 #include <QApplication>
 
 #include "mainwindow.h"
